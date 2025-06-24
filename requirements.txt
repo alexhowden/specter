@@ -1,0 +1,10 @@
+numpy
+pyautogui
+time
+mss
+shapely
+ultralytics
+opencv-python
+pytesseract
+pillow
+label-studio

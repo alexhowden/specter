@@ -1,0 +1,30 @@
+path: /Users/misterrobot/Desktop/Programming/specter/attack_model
+train: train
+val: val
+
+nc: 23
+
+names:
+- airdef_1
+- airdef_23
+- airdef_4
+- airdef_56
+- airdef_78
+- airsweeper
+- archertower
+- archertower2
+- archertower3
+- archertower4
+- border
+- th_1
+- th_2
+- th_3
+- th_4
+- th_5
+- th_6
+- th_7
+- th_8
+- th_9
+- wizardtower
+- wizardtower2
+- xbow

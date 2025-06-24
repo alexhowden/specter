@@ -1,0 +1,12 @@
+path: /Users/misterrobot/Desktop/Programming/specter/state_model
+train: train
+val: val
+
+nc: 5
+
+names:
+  - attack
+  - elixir
+  - end
+  - gold
+  - next
