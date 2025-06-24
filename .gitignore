@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+venv/
+.env/
+.DS_Store
+.vscode/
+*.log
+.env
+models/yolo11x.pt
+state_model/
+attack_model/
+journal.txt
